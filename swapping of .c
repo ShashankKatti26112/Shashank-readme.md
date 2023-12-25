@@ -14,8 +14,3 @@ void main()
 
 	printf("After Swapping a=%d,b=%d"a,b);
 }
-
-/*
-Input: Enter a and b
-10 20
-*/created
